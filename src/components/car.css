@@ -1,0 +1,36 @@
+img{
+    margin-top: -375px;
+    opacity: 0.5;
+}
+li{
+    background: black;
+}
+.container{
+    margin-top: 200px;
+    background: red;
+}
+.iconb_text{
+    margin-top: -160px;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.dblock{
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius:50% ;
+}
+#cbg{
+    background: beige;
+}
+.iconb_text,h4,p{
+    text-decoration: none;
+}

@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.mb-3{
+    width: 20%;
+
+}
+.f1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border:1px solid burlywood;
+    background-color: black;
+    color: white;
+}
+.s2{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 40px;
+    padding: 20px 10px 10px 10px;
+    
+}
+.s1{
+    margin-top: 20px;
+    display: flex;
+    
+}
+.s3{
+    margin-right: 50px;
+    margin-left:20px;
+    height: 50vh;
+    width:50%
+}
+.s3 img{
+    width: 50%;
+    margin-top: 300px;
+    opacity: 1;
+}
+.our_services{
+    border:1px solid black;
+    background-image: url("https://autobunny-docs.s3.ca-central-1.amazonaws.com/1328/web-content/site_slider2_filename.jpg");
+    margin:20px 0px 20px 0px;
+    padding-top: 100px; 
+    
+}
+.cont h6  {
+    margin-top: 30px;
+    color: white;
+}
+.cont h2 {
+    color: white;
+}
+#row{
+    display: flex;
+    gap: 230px;
+    margin-top: 100px;
+    justify-content: center;
+}
+#row img{
+    width: 150%;
+    border: 10px double grey;
+    border-radius: 50%;
+    transition: all 0.70s ease-in-out;
+}
+#nm{
+    display: flex;
+    gap: 120px;
+    margin-top: 20px;
+    margin-left: 230px;
+    color: white;
+    font-weight: 400;
+
+}
+#row img:hover{
+    transform: scale(1.2);
+}
+#nm :last-child{
+    margin-left: 40px;
+}
+#nm :nth-child(3){
+    margin-left: 30px;
+}
+#nm :first-child{
+    margin-left: 20px;
+}
+#nm :nth-child(2){
+    margin-left: 20px;
+}

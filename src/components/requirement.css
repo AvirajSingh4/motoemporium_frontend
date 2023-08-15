@@ -1,0 +1,28 @@
+.head{
+    background: url("https://www.autobest.co.in/assets/front/img/breadcrumb.jpg");
+    color:white;
+    height: 210px;
+}
+h1{
+    padding-top: 84px;
+}
+.fo{
+    border: 2px solid black;
+    padding: 30px;
+    width: 60%;
+    border-radius: 10px;
+    font-weight: bold;
+    background: beige;
+}
+button{
+    background: red;
+}
+.back{
+    background: url("https://stimg.cardekho.com/images/car-images/930x620/Toyota/Fortuner/8241/1609933145105/221_attitude-black_141314.jpg?impolicy=resize&imwidth=420");
+}
+input,select{
+    margin: 8px;
+}
+Link{
+    text-decoration: none;
+}

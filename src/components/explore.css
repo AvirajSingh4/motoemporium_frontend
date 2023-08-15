@@ -1,0 +1,27 @@
+.contain{
+   
+   
+    padding-top: 240px;
+
+
+    width: 100vh;
+    height: 100vh;
+    
+    
+    
+} 
+.head5{
+    background: url("https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    
+    
+    height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.opacity-1{
+    opacity: 1;
+}
